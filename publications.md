@@ -17,7 +17,7 @@ author_profile: true
 
 #### Conference Publications 
 
-1. **A. Allibhoy**, J. Cortés, Anytime Solution of Constrained Nonlinear Programs via Control Barrier Functions, <br>*IEEE Conference on Decision and Control, Austin, TX*. Accepted.
+1. **A. Allibhoy**, J. Cortés, Anytime Solution of Constrained Nonlinear Programs via Control Barrier Functions, <br>*IEEE Conference on Decision and Control, Austin, TX*, December 2021, Accepted.
 
 2. **A. Allibhoy**, J. Cortés, [Data-Driven Distributed Predictive Control via Network Optimization](http://proceedings.mlr.press/v120/allibhoy20a.html), <br>*Proceedings of the 2nd Conference on Learning for Dynamics and Control, Berkeley, CA*, pages 838-839, June 2020.
 {: .text-justify style="font-size: 12pt" reversed="reversed"}
